@@ -1,9 +1,9 @@
-const width = 400
-const height = 400
+const canvasWidth = 400
+const canvasHeight = 400
 
 
 function setup() {
-    createCanvas(width, height);
+    createCanvas(canvasWidth, canvasHeight);
 }
 
 function draw() {
